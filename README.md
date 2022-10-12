@@ -1,1 +1,1 @@
-# musics-plural-an-elaborate-list
+# musics-(plural)-an-elaborate-list
