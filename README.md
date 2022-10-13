@@ -17,7 +17,7 @@ I'm offering a sweet collection of new retro tracks. Purpose - dive into the neo
 and a lot more.
 
 
-<span style="color:green;font-weight:700;font-size:20px">##Additional music to go through the day##</span>
+<span style="color:green;font-weight:700;font-size:20px">Additional music to go through the day</span>
 
 
   
