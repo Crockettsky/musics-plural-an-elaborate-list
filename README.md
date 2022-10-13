@@ -4,7 +4,7 @@
 
 ###It's midnight, what should I listen to?###
 I'm offering a sweet collection of new retro tracks. Purpose - dive into the neon city energy and contemporary romance. The list consists of the following bands:
-<ol>
+
 <li>The Midnight</li>
 <li>Now, Now</li>
 <li>Le Cassette</li>
@@ -12,5 +12,5 @@ I'm offering a sweet collection of new retro tracks. Purpose - dive into the neo
 <li>Mitch Murder</li>
 <li>Tesla Boy</li>
 <li>FM-84</li>
-</ol>
+
 and a lot more.
