@@ -12,7 +12,7 @@ I'm offering a sweet collection of new retro tracks. Purpose - dive into the neo
 <li>Mitch Murder</li>
 <li>Tesla Boy</li>
 <li>FM-84</li>
-and a lot more.
+and many more.
 
 
 ###Some additional new retro /slash/ midnigh neon artists:###
